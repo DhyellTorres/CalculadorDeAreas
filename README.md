@@ -4,20 +4,22 @@ Este projeto é um calculador de áreas para polígonos regulares (triângulos e
 
 ## Estrutura do Projeto
 
-CalculadorDeAreas/</br>
-├── src/</br>
-│   └── main/</br>
-│       └── java/</br>
-│           └── com/</br>
-│               └── adryel/</br>
-│                   └── calculadorDeAreas/</br>
-│                       ├── Main.java</br>
-│                       ├── Polygon.java</br>
-│                       ├── Triangle.java</br>
-│                       └── Square.java</br>
-├── .gitignore</br>
-├── pom.xml</br>
-└── README.md</br>
+```
+CalculadorDeAreas/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── adryel/
+│                   └── calculadorDeAreas/
+│                       ├── Main.java
+│                       ├── Polygon.java
+│                       ├── Triangle.java
+│                       └── Square.java
+├── .gitignore
+├── pom.xml
+└── README.md
+```
 
 ## Como Executar
 
