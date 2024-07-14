@@ -36,8 +36,8 @@ CalculadorDeAreas/
 
 ## Exemplo de Saída
 
-Triângulo de lado 3 cm e área 3,89 cm²
-Triângulo de lado 4 cm e área 6,92 cm²
-Quadrado de lado 4 cm e área 16 cm²
+Triângulo de lado 3 cm e área 3,89 cm² </br>
+Triângulo de lado 4 cm e área 6,92 cm² </br>
+Quadrado de lado 4 cm e área 16 cm² </br>
 
 Área total 26,81 cm²
