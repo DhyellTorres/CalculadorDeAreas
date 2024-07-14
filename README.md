@@ -4,6 +4,7 @@ Este projeto é um calculador de áreas para polígonos regulares (triângulos e
 
 ## Estrutura do Projeto
 
+```
 CalculadorDeAreas/
 ├── src/
 │   └── main/
@@ -18,6 +19,7 @@ CalculadorDeAreas/
 ├── .gitignore
 ├── pom.xml
 └── README.md
+```
 
 ## Como Executar
 
